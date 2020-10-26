@@ -1,0 +1,117 @@
+@media(min-width: 0px) {
+  .hero-right, .hero-left {
+    min-height:600px;
+  }
+  .hero-section .hero-right p {
+    padding: 0 50px 0 140px;
+    font-size: 22px;
+    line-height: 42px;
+  }
+  .hero-section .hero-right p:before {
+    left:80px;
+  }
+  .hero-section .hero-left h1:before {
+    top: -40px;
+  }
+  .paragraph--type--hero-header-panel.hero-section .hero-left h1 {
+    line-height:55px;
+  }
+  .container {
+    max-width:100%
+}
+}
+@media(min-width: 768px) {
+  .hero-right, .hero-left {
+    min-height:600px;
+  }
+  .hero-section .hero-right p {
+    padding: 0 50px 0 140px;
+    font-size: 22px;
+    line-height: 42px;
+  }
+  .hero-section .hero-right p:before {
+    left:80px;
+  }
+  .hero-section .hero-left h1:before {
+    top: -40px;
+  }
+  .paragraph--type--hero-header-panel.hero-section .hero-left h1 {
+    line-height:55px;
+  }
+  .container {
+      max-width:100%
+  }
+
+  main#content {
+      padding-left: 0;
+      padding-right: 0
+  }
+}
+
+@media(min-width: 992px) {
+  .container {
+      max-width:100%
+  }
+  .hero-right, .hero-left {
+    min-height:600px;
+  }
+  .hero-section .hero-right p {
+    padding: 0 50px 0 140px;
+    font-size: 22px;
+    line-height: 42px;
+  }
+  .hero-section .hero-right p:before {
+    left:80px;
+  }
+  .hero-section .hero-left h1:before {
+    top: -40px;
+  }
+  .paragraph--type--hero-header-panel.hero-section .hero-left h1 {
+    line-height:55px;
+  }
+  main#content {
+      padding-left: 0;
+      padding-right: 0
+  }
+}
+@media (min-width: 1024px) {
+  .hero-right, .hero-left {
+    min-height:600px;
+  }
+  .hero-section .hero-right p {
+    padding: 0 50px 0 140px;
+    font-size: 22px;
+    line-height: 42px;
+  }
+  .hero-section .hero-right p:before {
+    left:80px;
+  }
+  .hero-section .hero-left h1:before {
+    top: -40px;
+  }
+  .paragraph--type--hero-header-panel.hero-section .hero-left h1 {
+    line-height:55px;
+  }
+  .container {
+    max-width:1760px
+  }
+  main#content {
+    padding-left: 0;
+    padding-right: 0
+  }
+  .hero-section .hero-left, .hero-section .hero-right {
+      min-height: 800px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width:1760px
+  }
+  main#content {
+    padding-left: 0;
+    padding-right: 0
+  }
+  .hero-section .hero-left, .hero-section .hero-right {
+      min-height: 800px;
+  }
+}
